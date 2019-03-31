@@ -22,7 +22,7 @@
                                                      Back As Color, Axes As Pen, AxesDiv As Pen, AxesDivLength!, Line As Pen, Optional LineAxesIntersectionDot As Color = Nothing, Optional Padding As Padding = Nothing) As Bitmap
         'Code by Sreenikethan I of IX-D (2018)
         'youtube.com/SreenikethanIyer
-        'Test
+        
         'Initialize null parameters
         Padding = If(IsNothing(Padding), New Padding(10), Padding)
 
